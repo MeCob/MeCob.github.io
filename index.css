@@ -1,13 +1,15 @@
 body {
-    background-color: #18181f;
+    background-color: #000000;
 }
 
 h1 {
     color: white;
+    border: var()4px solid;
 }
 
 
 a {
     margin: 10px;
-    color: rgb(0, 17, 255);
+    color: rgb(0, 255, 213);
+    border: var()4px solid;
 }
