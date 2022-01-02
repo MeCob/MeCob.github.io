@@ -4,12 +4,13 @@ body {
 
 h1 {
     color: white;
-    border: var()4px solid;
+    border:1px solid rgb(255, 255, 255);
 }
 
 
 a {
     margin: 10px;
     color: rgb(0, 255, 213);
-    border: var()4px solid;
+    border:1px solid rgb(0, 255, 213);
+
 }
