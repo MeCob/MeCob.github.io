@@ -4,10 +4,11 @@
 
 }
 a {
+    font-size: 1.5rem;
     display:block;
     text-align:center;
     padding: 0.25em 1em;
-    border-radius: 0.30rem;
+    border-radius: 0.55rem;
     display: inline-block;
     cursor: pointer;
     text-decoration: none;
