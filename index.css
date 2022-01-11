@@ -1,19 +1,24 @@
+ .myDiv{
+    display:block;
+    text-align:center;
 
-
-h1 {
-    color: white
-    
-    
 }
 a {
+    display:block;
+    text-align:center;
+    padding: 0.25em 1em;
+    border-radius: 0.30rem;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
     margin: 10px;
-    color: rgb(0, 255, 213);
-    border:1px solid rgb(0, 255, 213);
+    color: rgb(255, 255, 255);
+    border:1px solid rgb(255, 255, 255);
 
 }
 h1 {
+    display:block;
+    text-align:center;
     text-decoration: none;
-}
-a {
-    text-decoration: none;
+    color: white
 }
