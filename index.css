@@ -4,6 +4,7 @@
 
 }
 a {
+    font-family: "Roboto", cursive;
     font-size: 1.5rem;
     display:block;
     text-align:center;
@@ -18,6 +19,7 @@ a {
 
 }
 h1 {
+    font-family: "Roboto", cursive;
     display:block;
     text-align:center;
     text-decoration: none;
