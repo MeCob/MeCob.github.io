@@ -23,32 +23,23 @@ h1 {
   text-decoration: none;
   color: white;
 }
-.ico2 {
-  max-height: px;
-  max-width: 65px;
-  width: 70px;
-  height: 70px;
-  position: absolute;
-  top: 25px;
-  right: 75px;
-}
 
 .ico {
-  max-height: 70px;
+  max-height: 69.33px;
   max-width: 70px;
   width: 70px;
   height: 70px;
   position: absolute;
-  top: 15px;
+  top: 13px;
   right: 10px;
 }
 .ico2 {
-  max-height: 70px;
-  max-width: 70px;
-  width: 70px;
+  max-height: 100px;
+  max-width: 71px;
+  width: 100px;
   height: 70px;
   position: absolute;
-  top: 15px;
+  top: 13px;
   right: 90px;
 }
 a {
