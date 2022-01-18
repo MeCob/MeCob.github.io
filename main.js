@@ -1,10 +1,7 @@
 var scene, camera, renderer
-
 var WIDTH = window.innerWidth
 var HEIGHT = window.innerHeight
-
 var SPEED = 0.01
-
 function init() {
 	scene = new THREE.Scene()
 
@@ -28,8 +25,9 @@ function initRenderer() {
 
 function initCube() {
 	cube = new THREE.Mesh(
-		new THREE.CubeGeometry(1, 1, 1),
+		new THREE.CubeGeometry(1,1,1),
 		new THREE.MeshNormalMaterial()
+
 	)
 	scene.add(cube)
 }
