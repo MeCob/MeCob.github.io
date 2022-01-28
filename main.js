@@ -25,9 +25,8 @@ function initRenderer() {
 
 function initCube() {
 	cube = new THREE.Mesh(
-		new THREE.CubeGeometry(1,1,1),
+		new THREE.CubeGeometry(1, 1, 1),
 		new THREE.MeshNormalMaterial()
-
 	)
 	scene.add(cube)
 }
