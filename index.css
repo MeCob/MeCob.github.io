@@ -1,49 +1,58 @@
+input{
+  padding: 0;
+  border: none;
+  background: none;
+  color : white
+}
+.easteregg{
+  color:white
+}
 .myDiv {
-	display: block;
-	text-align: center;
+  display: block;
+  text-align: center;
 }
 .a2 {
-	font-family: 'Roboto', cursive;
-	font-size: 1.5rem;
-	display: block;
-	text-align: center;
-	padding: 0.25em 1em;
-	border-radius: 0.55rem;
-	display: inline-block;
-	cursor: pointer;
-	text-decoration: none;
-	margin: 10px;
-	color: rgb(255, 255, 255);
-	border: 1px solid rgb(255, 255, 255);
+  font-family: "Roboto", cursive;
+  font-size: 1.5rem;
+  display: block;
+  text-align: center;
+  padding: 0.25em 1em;
+  border-radius: 0.55rem;
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: none;
+  margin: 10px;
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
 }
 h1 {
-	font-family: 'Roboto', cursive;
-	display: block;
-	text-align: center;
-	text-decoration: none;
-	color: white;
+  font-family: "Roboto", cursive;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: white;
 }
 .ico {
-	max-height: 69.33px;
-	max-width: 70px;
-	width: 70px;
-	height: 70px;
-	position: absolute;
-	top: 13px;
-	right: 10px;
+  max-height: 69.33px;
+  max-width: 70px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 13px;
+  right: 10px;
 }
 .ico2 {
-	max-height: 100px;
-	max-width: 71px;
-	width: 100px;
-	height: 70px;
-	position: absolute;
-	top: 13px;
-	right: 90px;
+  max-height: 100px;
+  max-width: 71px;
+  width: 100px;
+  height: 70px;
+  position: absolute;
+  top: 13px;
+  right: 90px;
 }
 a {
-	fill: rgb(255, 255, 255);
+  fill: rgb(255, 255, 255);
 }
 path {
-	fill: rgb(255, 255, 255);
+  fill: rgb(255, 255, 255);
 }
